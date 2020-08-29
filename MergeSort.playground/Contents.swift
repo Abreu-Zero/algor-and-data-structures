@@ -1,4 +1,6 @@
 import Foundation
+
+//Special thanks to Thomas Hanning
  
 class MergeSort{
     
